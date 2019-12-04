@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "189763548509",
+    "firebase_url": "https://crystal-battles.firebaseio.com",
+    "project_id": "crystal-battles",
+    "storage_bucket": "crystal-battles.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189763548509:android:d2060720c3a877a5",
+        "android_client_info": {
+          "package_name": "com.kgiotis.crystal_battles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189763548509-jo0cick4mqu6u30bvse841qmtetnc1dj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMgOUBcmSBqZL2mbbXJvweUIFHMhtnvWk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
