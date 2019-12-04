@@ -7,9 +7,9 @@ This is a 2D 1-vs-1 multiplayer game that supports lan and online game sessions 
 * Animations 
 #  Screenshots  
 ![Screenshot](ss1.png)
-![Screenshot](ss2.png)  
-![Screenshot](ss3.png)  
-![Screenshot](ss4.png) 
+![Screenshot](ss2.png)
+![Screenshot](ss3.png)
+![Screenshot](ss4.png)
 ![Screenshot](ss5.PNG)
 #  Try it  
 Send me a message for a working .apk if you want to test the game
