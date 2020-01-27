@@ -12,5 +12,5 @@ This is a 2D 1-vs-1 multiplayer game that supports lan and online game sessions 
 ![Screenshot](ss4.png)
 ![Screenshot](ss5.PNG)
 #  Try it  
-Send me a message for a working .apk if you want to test the game
+Download and install the "Crystals.apk" file from the files in this repo.
 
