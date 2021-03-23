@@ -1,9 +1,9 @@
 #  Crystal-Battles-Android-Game  
 #  Information 
-This is a 2D 1-vs-1 multiplayer game that supports lan and online game sessions made with Unity3D.  
-# Things I Learned 
-* Networking (for lan games)  
-* FireBase Realtime Database (for online games)
+This is a 2D 1-vs-1 multiplayer game that supports LAN and Online game sessions between 2 Players. Made with Unity3D.  
+# Things Learned 
+* Networking (for LAN games) using Unity's low-level TransportLayer API  
+* FireBase Realtime Database (for online game sessions)
 * Animations 
 #  Screenshots  
 ![Screenshot](ss1.png)
